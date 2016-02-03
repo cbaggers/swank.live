@@ -1,4 +1,4 @@
-Some helpers for swank in the area of livecoding
+Some helpers that make livecoding at little easier with slime/swank
 
 Exposes:
 
