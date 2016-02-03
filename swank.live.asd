@@ -5,5 +5,6 @@
   :author "Chris Bagley (Baggers) <techsnuffle@gmail.com>"
   :license "BSD 2 Clause"
   :serial t
+  :depends-on (#:swank)
   :components ((:file "package")
                (:file "swank.live")))
