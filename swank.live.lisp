@@ -15,6 +15,6 @@
    errors don't kill the app."
   `(restart-case
        (progn ,@body)
-     (continue () :report "Swank-Live: Continue")))
+     (continue () :report "Swank.Live: Continue")))
 
 (defun peek (x) (swank:inspect-in-emacs x))
