@@ -2,4 +2,4 @@
 
 (defpackage #:swank.live
   (:use #:cl)
-  (:export :update-swank :continuable :peek))
+  (:export :update-swank :peek))
