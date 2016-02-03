@@ -1,2 +1,1 @@
-# swank.live
-Some helpers for swank in the area of live coding
+Some helpers for swank in the area of livecoding
